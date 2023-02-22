@@ -1,0 +1,94 @@
+.footer{
+    color:white;
+    
+}
+
+.backtotop{
+    background-color:  #37475A;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+.backtotop:hover{
+    background-color:  #485769;
+}
+
+.list1{
+    background-color: #232F3E;
+}
+
+.list2{
+    background-color: #232F3E;
+}
+
+.list3{
+    background-color: #131A22;
+}
+
+
+.listItem{
+    list-style: none;
+    cursor: pointer;
+}
+
+.listItem:hover{
+    text-decoration: underline;
+    
+}
+
+.listItemHeading{
+    list-style: none;
+}
+
+.list1{
+    display: flex;
+    border-bottom: 1px solid #3a4553;
+
+}
+
+.listDiv{
+    margin-left: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.logoFooter{
+    padding: 0.5rem;
+    width: 6%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.country{
+    text-align: center;
+    
+    list-style: none;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin-left: 15rem;
+     margin-right: 15rem;
+     font-size: 12px;
+     padding: 12px;
+}
+
+.countryList{
+    margin-left: 1rem;
+    cursor: pointer;
+
+}
+
+.list3{
+    text-align: center;
+    padding: 0.7rem;
+    font-size: 13px;
+}
+
+.footerSpan2{
+    display: block;
+}

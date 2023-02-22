@@ -1,0 +1,16 @@
+.subNavbar{
+    background-color: #232F3E;
+    color:white;
+    padding: 0.5rem;
+}
+
+.subNavbarCat{
+    display: inline;
+}
+
+.categoryName{
+    display: inline;
+    margin-left: 1.9rem;
+    font-weight: 500;
+    cursor: pointer;
+}
