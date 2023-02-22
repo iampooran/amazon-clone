@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Do It Today",
+    "category": "Books",
+    "image": "https://d2i0w0hu6hvxgc.cloudfront.net/B07DRP1Q5W/c32e3c1f/cover.jpeg"
+  },
+  {
+    "name": "Energize Your Mind",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/71B4h-dSVzL.jpg"
+  },
+  {
+    "name": "The Power of your Subconscious Mind",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/81gTwYAhU7L.jpg"
+  },
+  {
+    "name": "The Art Of Saying NO",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/51TWpxEY7tL.jpg"
+  },
+  {
+    "name": "How to Win Friends and Influence People",
+    "category": "Books",
+    "image": "https://m.media-amazon.com/images/I/51AKk9NTPBL.jpg"
+  }
+]

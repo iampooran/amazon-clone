@@ -10,6 +10,7 @@
     padding: 10px;
     transition: 0.1s;
     cursor: pointer;
+    
 }
 
 .backtotop:hover{
@@ -91,4 +92,9 @@
 
 .footerSpan2{
     display: block;
+}
+
+.BTT{
+    color: white;
+    text-decoration: none;
 }

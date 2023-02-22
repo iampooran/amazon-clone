@@ -6,7 +6,9 @@ const Footer = () => {
   return (
     <React.Fragment>
       <div className="footer">
-        <div className="backtotop">Back to Top</div>
+        <div className="backtotop">
+         <a href="#topLink" className="BTT">Back to Top</a>
+          </div>
 
         <div className="list1">
           <div className="listDiv">
