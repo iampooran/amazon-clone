@@ -30,7 +30,7 @@
 }
 
 
-.listItem{
+.listDiv li{
     list-style: none;
     cursor: pointer;
 }
@@ -78,7 +78,7 @@
      padding: 12px;
 }
 
-.countryList{
+.country li{
     margin-left: 1rem;
     cursor: pointer;
 
@@ -98,3 +98,4 @@
     color: white;
     text-decoration: none;
 }
+
